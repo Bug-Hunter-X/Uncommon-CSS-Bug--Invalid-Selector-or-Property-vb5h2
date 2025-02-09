@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in CSS related to invalid selectors or properties. The `bug.css` file contains the erroneous code, while `bugSolution.css` provides the corrected version. The bug manifests as unexpected styling or rendering issues in the browser.  The solution involves identifying and correcting the syntax error in the selector or property.
