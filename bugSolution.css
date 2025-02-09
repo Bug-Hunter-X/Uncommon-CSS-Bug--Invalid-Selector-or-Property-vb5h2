@@ -1,0 +1,22 @@
+/* Corrected CSS code */
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.item {
+  width: 100px;
+  height: 100px;
+  background-color: #f00;
+  margin: 10px;
+}
+
+/* Incorrect Selector */
+/* .invalid-selector {
+  background-color: blue; 
+} */
+
+/* Incorrect Property */
+/* .item {
+  backround-color: green; /*Typo here */
+} */
